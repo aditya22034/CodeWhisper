@@ -70,11 +70,6 @@ CodeWhisper is built with a decoupled frontend and backend:
 - **Vector Store:** ChromaDB is used to store vector representations of the codebase for efficient retrieval.
 - **RAG System:** LangChain's RAG implementation connects the LLM with the vector store to provide context-aware answers.
 
-## 📸 Screenshots
-
-*(placeholder for a GIF of the chat interface in action)*
-
-![CodeWhisper UI](https://i.imgur.com/placeholder.png)
 
 ## 📦 Dependencies
 
