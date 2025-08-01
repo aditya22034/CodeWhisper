@@ -11,6 +11,14 @@ Why it’s useful:
 - **Understand complex code:** Get explanations for functions, classes, or entire files.
 - **Onboard new developers:** Helps new team members get up to speed quickly.
 
+
+## 🌐 Deployed Project
+
+You can find the live version of CodeWhisper here:
+[**Link to Deployed Project**](https://code-whisper-gilt.vercel.app/)
+
+
+
 ## 🧰 Tech Stack
 
 - **Frontend:** React.js for a clean, modern chat UI.
